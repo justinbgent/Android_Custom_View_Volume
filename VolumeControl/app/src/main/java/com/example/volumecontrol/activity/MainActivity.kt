@@ -1,7 +1,8 @@
-package com.example.volumecontrol
+package com.example.volumecontrol.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.volumecontrol.R
 
 class MainActivity : AppCompatActivity() {
 
